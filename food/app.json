@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "food",
-    "slug": "food",
+    "name": "ray-food",
+    "slug": "ray-food",
     "platforms": [
       "ios",
       "android",
